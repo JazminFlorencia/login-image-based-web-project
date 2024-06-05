@@ -1,0 +1,68 @@
+body{
+    background-color: #d1daf5;
+    padding: 250px 420px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.contenedor1{
+    background-color: white;
+    border-radius: 10px;
+    border: solid 40px white;
+    width: 600px 900px; 
+    text-align: center;  
+
+}
+
+.icono{
+    width: 50px;
+    transform: translate(170%);
+}
+
+.contenedor{
+    display: inline-block;
+    width: 100%;
+}
+
+h1{
+    font-size: 50px;
+    margin:0%;
+}
+
+h3{
+    font-size: 30px;
+    width: 800px 0;
+}
+
+p{
+    color: rgb(105, 104, 104);
+    font-size:15px;
+    text-align:left;
+}
+
+.form_elemento{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    text-align:left;
+}
+
+.boton{
+    display: inline-block;
+    width: 98%;
+    margin-bottom: 20px;
+    background-color: #0374F4;
+    padding: 15px 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    /*ajustar el tamaño, intentar poniendo una imagen en vez de un texto*/
+}
+
+.registro{
+    text-align: center;
+}
+
+.line{
+    margin: 40px;
+}
